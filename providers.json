@@ -1,0 +1,128 @@
+[
+  {
+    "id": "kilo_api_02",
+    "name": "Kilo API 02 - Free Model",
+    "type": "openrouter",
+    "base_url": "https://openrouter.ai/api",
+    "api_key": "OPENROUTER_API_KEY",
+    "model": "mistralai/mistral-7b-instruct:free",
+    "priority": 1,
+    "enabled": true,
+    "http_referer": "",
+    "x_title": ""
+  },
+  {
+    "id": "kilo_api_03",
+    "name": "Kilo API 03 - Free Model",
+    "type": "openrouter",
+    "base_url": "https://openrouter.ai/api",
+    "api_key": "OPENROUTER_API_KEY",
+    "model": "mistralai/mistral-7b-instruct:free",
+    "priority": 2,
+    "enabled": true,
+    "http_referer": "",
+    "x_title": ""
+  },
+  {
+    "id": "kilo_api_04",
+    "name": "Kilo API 04 - Free Model",
+    "type": "openrouter",
+    "base_url": "https://openrouter.ai/api",
+    "api_key": "OPENROUTER_API_KEY",
+    "model": "mistralai/mistral-7b-instruct:free",
+    "priority": 3,
+    "enabled": true,
+    "http_referer": "",
+    "x_title": ""
+  },
+  {
+    "id": "kilo_api_05",
+    "name": "Kilo API 05 - Free Model",
+    "type": "openrouter",
+    "base_url": "https://openrouter.ai/api",
+    "api_key": "OPENROUTER_API_KEY",
+    "model": "mistralai/mistral-7b-instruct:free",
+    "priority": 4,
+    "enabled": true,
+    "http_referer": "",
+    "x_title": ""
+  },
+  {
+    "id": "kilo_api_10",
+    "name": "Kilo API 10 - Free Model",
+    "type": "openrouter",
+    "base_url": "https://openrouter.ai/api",
+    "api_key": "OPENROUTER_API_KEY",
+    "model": "mistralai/mistral-7b-instruct:free",
+    "priority": 5,
+    "enabled": true,
+    "http_referer": "",
+    "x_title": ""
+  },
+  {
+    "id": "kilo_api_11",
+    "name": "Kilo API 11 - Free Model",
+    "type": "openrouter",
+    "base_url": "https://openrouter.ai/api",
+    "api_key": "OPENROUTER_API_KEY",
+    "model": "mistralai/mistral-7b-instruct:free",
+    "priority": 6,
+    "enabled": true,
+    "http_referer": "",
+    "x_title": ""
+  },
+  {
+    "id": "kilo_api_12",
+    "name": "Kilo API 12 - Free Model",
+    "type": "openrouter",
+    "base_url": "https://openrouter.ai/api",
+    "api_key": "OPENROUTER_API_KEY",
+    "model": "mistralai/mistral-7b-instruct:free",
+    "priority": 7,
+    "enabled": true,
+    "http_referer": "",
+    "x_title": ""
+  },
+  {
+    "id": "kilo_api_15",
+    "name": "Kilo API 15 - Free Model",
+    "type": "openrouter",
+    "base_url": "https://openrouter.ai/api",
+    "api_key": "OPENROUTER_API_KEY",
+    "model": "mistralai/mistral-7b-instruct:free",
+    "priority": 8,
+    "enabled": true,
+    "http_referer": "",
+    "x_title": ""
+  },
+  {
+    "id": "gemini_main_01",
+    "name": "Google Gemini 01",
+    "type": "gemini",
+    "base_url": "https://generativelanguage.googleapis.com/v1beta",
+    "api_key": "GEMINI_API_KEY",
+    "model": "gemini-flash-latest",
+    "priority": 9,
+    "enabled": true
+  },
+  {
+    "id": "gemini_main_02",
+    "name": "Google Gemini 02",
+    "type": "gemini",
+    "base_url": "https://generativelanguage.googleapis.com/v1beta",
+    "api_key": "GEMINI_API_KEY",
+    "model": "gemini-flash-latest",
+    "priority": 10,
+    "enabled": true
+  },
+  {
+    "id": "kilo_api_14",
+    "name": "Kilo API 14 - Free Model",
+    "type": "openrouter",
+    "base_url": "https://openrouter.ai/api",
+    "api_key": "OPENROUTER_API_KEY",
+    "model": "mistralai/mistral-7b-instruct:free",
+    "priority": 11,
+    "enabled": true
+  }
+]
