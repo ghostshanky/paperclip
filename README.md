@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="media/clippy.gif" width="200" alt="PaperClip Agent">
+
 
 <img src="media/icon.svg" width="100" alt="PaperClip Logo">
 
