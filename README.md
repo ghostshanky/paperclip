@@ -2,9 +2,12 @@
 
 
 
-<img src="media/icon.svg" width="100" alt="PaperClip Logo">
+<img src="media/icon.svg" width="200" alt="PaperClip Logo">
 
-# PaperClip
+<br>
+
+<img src="media/paperclip.svg" width="250" alt="PaperClip">
+
 ### The invisible AI agent living in your clipboard.
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -33,13 +36,20 @@ It's magic. No, really.
 2.  **Wait** a second... (The agent talks to the AI) ⏳
 3.  **Paste**! The text in your clipboard is now the code you asked for.
 
-```mermaid
-graph LR
-    A[User Copies Prompt] -->|Clipboard| B(PaperClip Agent);
-    B -->|API Request| C{AI Provider};
-    C -->|Response| B;
-    B -->|Minimalize Code| D[Update Clipboard];
-    D -->|Paste| E[User Code Editor];
+```text
+[User Copies Prompt] --(Clipboard)--> [PaperClip Agent]
+                                            |
+                                      (API Request)
+                                            v
+                                      {AI Provider}
+                                            |
+                                        (Response)
+                                            v
+                                      [PaperClip Agent]
+                                            |
+                                     (Minimalize Code)
+                                            v
+[User Code Editor] <--(Paste)------- [Update Clipboard]
 ```
 
 ## 🌟 Feature Highlights
